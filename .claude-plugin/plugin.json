@@ -1,0 +1,11 @@
+{
+  "name": "workflow",
+  "description": "Development workflow commands for Claude Code: planning, implementing, reviewing, refactoring, and session memory management. Language-agnostic.",
+  "version": "1.0.0",
+  "author": {
+    "name": "darkmodesyndicate"
+  },
+  "homepage": "https://github.com/darkmodesyndicate/claude-workflow",
+  "repository": "https://github.com/darkmodesyndicate/claude-workflow",
+  "license": "MIT"
+}
