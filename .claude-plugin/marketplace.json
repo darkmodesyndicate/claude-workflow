@@ -1,10 +1,17 @@
 {
+  "name": "claude-workflow",
+  "version": "1.0.0",
+  "description": "Development workflow commands for Claude Code",
+  "owner": {
+    "name": "darkmodesyndicate"
+  },
   "plugins": [
     {
       "name": "workflow",
       "description": "Development workflow commands for Claude Code: planning, implementing, reviewing, refactoring, and session memory management. Language-agnostic.",
       "version": "1.0.0",
-      "repository": "https://github.com/darkmodesyndicate/claude-workflow"
+      "source": ".",
+      "category": "productivity"
     }
   ]
 }
