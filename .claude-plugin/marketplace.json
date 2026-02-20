@@ -10,7 +10,7 @@
       "name": "workflow",
       "description": "Development workflow commands for Claude Code: planning, implementing, reviewing, refactoring, and session memory management. Language-agnostic.",
       "version": "1.0.0",
-      "source": ".",
+      "source": "./",
       "category": "productivity"
     }
   ]
